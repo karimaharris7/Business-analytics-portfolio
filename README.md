@@ -1,1 +1,1 @@
-# Business-analytics-portfolio
+# | Zomato’s restaurant analysis | https://docs.google.com/presentation/d/1VMlPDzAjsfTn4Xz2KW3j-O8eb0ABAkrHQEBTKrZ0058/edit | An analytical  reasoning of findings on the restaurant’s financial gain |  
